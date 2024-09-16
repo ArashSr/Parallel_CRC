@@ -1,4 +1,4 @@
-Hello World XRT (XRT Native API's)
+Parallel CRC Calculations
 ===========
 
 This is a simple hello world example to explain the XRT Native API's
