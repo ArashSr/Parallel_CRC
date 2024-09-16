@@ -1,3 +1,7 @@
+Includes: 
+
+The includes can be found in the Vitis Examples Repository in the common folder. https://github.com/Xilinx/Vitis_Accel_Examples/tree/main/common
+
 Make: 
 
 make all TARGET=sw_emu PLATFORM=/opt/xilinx/platforms/xilinx_u280_gen3x16_xdma_1_202211_1/xilinx_u280_gen3x16_xdma_1_202211_1.xpfm
